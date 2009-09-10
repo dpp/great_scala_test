@@ -1,0 +1,24 @@
+The Great Scala Test Bounty is a project that makes use of the
+best talents of the Scala community to write tests which 
+test the Scala compiler and the Scala libraries.
+
+To participate, fork this repository, add tests in a package
+that's unique to you (for me, the package is net.liftweb.dpp.tests).
+
+All your source files must contain the following at the top of the
+files:
+
+   This file is copyright (c) <year> by <your name> and
+   distributed under an MIT license.  For the text of the
+   license, see http://www.opensource.org/licenses/mit-license.php
+
+If you copy a file from within this project and modify it, you
+must retain any copyright notices in the files that you modify.
+
+When you've written some tests and want them rolled into the
+main set of tests, submit a pull request and in the request, please
+include the statement: "All the work in this request is either my
+original creation or a derivative work of something licensed
+under the MIT license and I have retained the original copyright
+notices in such works."
+
